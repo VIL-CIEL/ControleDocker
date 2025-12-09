@@ -53,3 +53,84 @@
 1765269015: Sending SUBACK to mqttx_web_client
 1765269032: Received PUBLISH from mqttx_web_client (d0, q0, r0, m0, 'TopicControle', ... (20 bytes))
 1765269032: Sending PUBLISH to mqttx_web_client (d0, q0, r0, m0, 'TopicControle', ... (20 bytes))
+1765269054: Received SUBSCRIBE from mqttx_web_client
+1765269054: 	BTS (QoS 0)
+1765269054: mqttx_web_client 0 BTS
+1765269054: Sending SUBACK to mqttx_web_client
+1765269063: Received PUBLISH from mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765269063: Sending PUBLISH to mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765269071: Received PUBLISH from mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (33 bytes))
+1765269071: Sending PUBLISH to mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (33 bytes))
+1765269073: Received PUBLISH from mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (33 bytes))
+1765269073: Sending PUBLISH to mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (33 bytes))
+1765269087: Received PUBLISH from mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (34 bytes))
+1765269087: Sending PUBLISH to mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (34 bytes))
+1765269092: Received PUBLISH from mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765269092: Sending PUBLISH to mqttx_web_client (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765269152: Received PINGREQ from mqttx_web_client
+1765269152: Sending PINGRESP to mqttx_web_client
+1765269212: Received PINGREQ from mqttx_web_client
+1765269212: Sending PINGRESP to mqttx_web_client
+1765269264: mosquitto version 2.0.22 terminating
+1765269264: Client mqttx_web_client closed its connection.
+1765269284: mosquitto version 2.0.22 starting
+1765269284: Config loaded from /mosquitto/config/mosquitto.conf.
+1765269284: Opening ipv4 listen socket on port 1883.
+1765269284: Opening ipv6 listen socket on port 1883.
+1765269284: Opening websockets listen socket on port 9005.
+1765269284: mosquitto version 2.0.22 running
+1765269287: New client connected from ::ffff:172.18.0.1:54222 as mqttx_web_client (p5, c1, k60).
+1765269287: No will message specified.
+1765269287: Sending CONNACK to mqttx_web_client (0, 0)
+1765269287: Received SUBSCRIBE from mqttx_web_client
+1765269287: 	TopicControle (QoS 0)
+1765269287: mqttx_web_client 0 TopicControle
+1765269287: Sending SUBACK to mqttx_web_client
+1765269287: Received SUBSCRIBE from mqttx_web_client
+1765269287: 	BTS (QoS 0)
+1765269287: mqttx_web_client 0 BTS
+1765269287: Sending SUBACK to mqttx_web_client
+1765269321: mosquitto version 2.0.22 terminating
+1765269321: Client mqttx_web_client closed its connection.
+1765269323: mosquitto version 2.0.22 starting
+1765269323: Config loaded from /mosquitto/config/mosquitto.conf.
+1765269323: Opening ipv4 listen socket on port 1883.
+1765269323: Opening ipv6 listen socket on port 1883.
+1765269323: Opening websockets listen socket on port 9005.
+1765269323: mosquitto version 2.0.22 running
+1765269325: New client connected from ::ffff:172.18.0.1:50240 as mqttx_web_client (p5, c1, k60).
+1765269325: No will message specified.
+1765269325: Sending CONNACK to mqttx_web_client (0, 0)
+1765269325: Received SUBSCRIBE from mqttx_web_client
+1765269325: 	TopicControle (QoS 0)
+1765269325: mqttx_web_client 0 TopicControle
+1765269325: Sending SUBACK to mqttx_web_client
+1765269325: Received SUBSCRIBE from mqttx_web_client
+1765269325: 	BTS (QoS 0)
+1765269325: mqttx_web_client 0 BTS
+1765269325: Sending SUBACK to mqttx_web_client
+1765269387: Received PINGREQ from mqttx_web_client
+1765269387: Sending PINGRESP to mqttx_web_client
+1765269429: mosquitto version 2.0.22 terminating
+1765269429: Client mqttx_web_client closed its connection.
+1765269431: mosquitto version 2.0.22 starting
+1765269431: Config loaded from /mosquitto/config/mosquitto.conf.
+1765269431: Opening ipv4 listen socket on port 1883.
+1765269431: Opening ipv6 listen socket on port 1883.
+1765269431: Opening websockets listen socket on port 9005.
+1765269431: mosquitto version 2.0.22 running
+1765269435: New client connected from ::ffff:172.18.0.1:36262 as mqttx_web_client (p5, c1, k60).
+1765269435: No will message specified.
+1765269435: Sending CONNACK to mqttx_web_client (0, 0)
+1765269436: Received SUBSCRIBE from mqttx_web_client
+1765269436: 	TopicControle (QoS 0)
+1765269436: mqttx_web_client 0 TopicControle
+1765269436: Sending SUBACK to mqttx_web_client
+1765269436: Received SUBSCRIBE from mqttx_web_client
+1765269436: 	BTS (QoS 0)
+1765269436: mqttx_web_client 0 BTS
+1765269436: Sending SUBACK to mqttx_web_client
+1765269497: Received PINGREQ from mqttx_web_client
+1765269497: Sending PINGRESP to mqttx_web_client
+1765269557: Received PINGREQ from mqttx_web_client
+1765269557: Sending PINGRESP to mqttx_web_client
