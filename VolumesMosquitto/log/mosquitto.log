@@ -37,3 +37,19 @@
 1765268485: Opening ipv4 listen socket on port 1883.
 1765268485: Opening ipv6 listen socket on port 1883.
 1765268485: mosquitto version 2.0.22 running
+1765268955: mosquitto version 2.0.22 terminating
+1765268958: mosquitto version 2.0.22 starting
+1765268958: Config loaded from /mosquitto/config/mosquitto.conf.
+1765268958: Opening ipv4 listen socket on port 1883.
+1765268958: Opening ipv6 listen socket on port 1883.
+1765268958: Opening websockets listen socket on port 9005.
+1765268958: mosquitto version 2.0.22 running
+1765268983: New client connected from ::ffff:172.18.0.1:37956 as mqttx_web_client (p5, c1, k60).
+1765268983: No will message specified.
+1765268983: Sending CONNACK to mqttx_web_client (0, 0)
+1765269015: Received SUBSCRIBE from mqttx_web_client
+1765269015: 	TopicControle (QoS 0)
+1765269015: mqttx_web_client 0 TopicControle
+1765269015: Sending SUBACK to mqttx_web_client
+1765269032: Received PUBLISH from mqttx_web_client (d0, q0, r0, m0, 'TopicControle', ... (20 bytes))
+1765269032: Sending PUBLISH to mqttx_web_client (d0, q0, r0, m0, 'TopicControle', ... (20 bytes))
